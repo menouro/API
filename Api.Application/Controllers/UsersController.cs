@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Api.Application.Controllers
 {
     //http://localhost:5000/api/users
+    //vamo testar o github
     [Route("api/[controller]")]
     [ApiController]
     public class UsersController : ControllerBase
